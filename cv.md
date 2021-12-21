@@ -22,3 +22,20 @@
 - JavaScript Basics
 - Git, GitHub
 - VS Code
+
+####Code example:
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+####Projects:
+https://github.com/DaniyarKulov/adaptive.git
+Technologies: HTML, CSS, SASS, Methodology BEM
+
+####Languages:
+
+- English - A2/B1
+- Russia - Native
