@@ -10,3 +10,15 @@
 **Discord:** Neo#7955
 
 ---
+
+####About Myself
+**_I am start learning HTML and CSS when i was 16 years old, but i gave up quickly. Now i want continue and make progress in this profession. I don't have experience in programming but i will to work hard_**
+
+---
+
+####Skills and Proficiency:
+
+- HTML5, CSS3, SASS, Methodology BEM
+- JavaScript Basics
+- Git, GitHub
+- VS Code
